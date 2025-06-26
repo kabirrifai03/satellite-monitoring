@@ -66,26 +66,26 @@ const beritaList: Berita[] = [
 const featureList: Feature[] = [
   {
     id: 1,
-    title: "Visualisasi Spotbeams 2D Siang",
-    imageUrl: "https://i.imgur.com/cfG4zHK.png",
+    title: "Visualisasi Spotbeam",
+    imageUrl: "https://i.imgur.com/JQBiaWv.jpeg",
     url: "#",
   },
   {
     id: 2,
-    title: "Visualisasi Spotbeams 2D Malam",
-    imageUrl: "https://i.imgur.com/ce9AuCk.jpeg",
+    title: "Input Data Satelit",
+    imageUrl: "https://i.imgur.com/Jo7mrhe.jpeg",
     url: "#",
   },
   {
     id: 3,
-    title: "Visualisasi Spotbeams 3D Standard",
-    imageUrl: "https://i.imgur.com/ZJvmXQW.jpeg",
+    title: "Input Data Antena",
+    imageUrl: "https://i.imgur.com/PHb1JBf.jpeg",
     url: "#",
   },
   {
     id: 4,
-    title: "Visualisasi Spotbeams 3D Satelit",
-    imageUrl: "https://i.imgur.com/HPmNeRZ.jpeg",
+    title: "Input Data Beam",
+    imageUrl: "https://i.imgur.com/mgXF6Gy.jpeg",
     url: "#",
   },
 ];
@@ -254,10 +254,7 @@ const BerandaPage: React.FC = () => {
                 Visualisasi Spotbeam Satelit
               </h2>
               <p className="text-lg text-gray-700 max-w-4xl mx-auto leading-relaxed">
-                Kami menyediakan layanan visualisasi spotbeam monitoring satelit
-                dengan berbagai tampilan yang mudah dipahami dan interaktif.
-                Mulai dari peta 2D siang dan malam, hingga pemodelan 3D satelit
-                untuk analisis yang lebih detail.
+                Kami menyediakan layanan visualisasi spotbeam monitoring satelit dengan berbagai tampilan yang mudah dipahami dan interaktif. Kami memiliki fitur Visualisasi Spotbeam, Tampilan 2D, Tampilan Gridview, Input Data Satelit, Input Data Antena, ⁠Input Data Beam,  ⁠Input Data Link Budget, dan Grafik Pola Radiasi.
               </p>
             </div>
           </AnimatedSection>
@@ -355,7 +352,7 @@ const BerandaPage: React.FC = () => {
             <div className="flex flex-wrap justify-center gap-12">
               <div className="text-center">
                 <img
-                  src="https://i.imgur.com/LBfYji4.jpeg"
+                  src="https://i.imgur.com/iORE2LW.jpeg"
                   alt="Achmad Kabir Rifa'i"
                   className="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-blue-300 shadow-lg"
                 />

@@ -19,7 +19,7 @@ const contactList: Contact[] = [
   {
     id: 1,
     name: "Achmad Kabir Rifai",
-    imageUrl: "https://i.imgur.com/LBfYji4.jpeg",
+    imageUrl: "https://i.imgur.com/iORE2LW.jpeg",
     email: "18121040@mahasiswa.itb.ac.id",
     instagram: {
       username: "@kabirrifai.pro",
